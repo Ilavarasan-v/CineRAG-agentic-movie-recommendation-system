@@ -1,0 +1,11 @@
+pymongo==4.7.3
+openai==1.40.0
+chromadb==0.5.3
+langgraph==0.2.14
+langchain==0.2.12
+langchain-openai==0.1.20
+langchain-community==0.2.10
+cohere==5.6.2
+tavily-python==0.3.3
+python-dotenv==1.0.1
+streamlit==1.37.0
